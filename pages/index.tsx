@@ -22,7 +22,7 @@ const Home: NextPage = () => {
         </div>
         <Image
           src="/tuqa-nabi-uhnZZUaTIOs-unsplash.jpg"
-          alt="Kitchen"
+          alt="Kitten"
           width={2848}
           height={4288}
           placeholder="blur"
